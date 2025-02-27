@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tayyab\\Practice\\LeetCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0DF375-2519-4D4B-9D1F-69FD27B48DDD}|LeetCode\\LeetCode.csproj|D:\\tayyab\\Practice\\LeetCode\\leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0DF375-2519-4D4B-9D1F-69FD27B48DDD}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0DF375-2519-4D4B-9D1F-69FD27B48DDD}|LeetCode\\LeetCode.csproj|D:\\tayyab\\Practice\\LeetCode\\leetcode\\leetcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0DF375-2519-4D4B-9D1F-69FD27B48DDD}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\leetcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0DF375-2519-4D4B-9D1F-69FD27B48DDD}|LeetCode\\LeetCode.csproj|d:\\tayyab\\practice\\leetcode\\leetcode\\myhashmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0DF375-2519-4D4B-9D1F-69FD27B48DDD}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\myhashmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0DF375-2519-4D4B-9D1F-69FD27B48DDD}|LeetCode\\LeetCode.csproj|D:\\tayyab\\Practice\\LeetCode\\leetcode\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0DF375-2519-4D4B-9D1F-69FD27B48DDD}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0DF375-2519-4D4B-9D1F-69FD27B48DDD}|LeetCode\\LeetCode.csproj|D:\\tayyab\\Practice\\LeetCode\\leetcode\\studentspecialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0DF375-2519-4D4B-9D1F-69FD27B48DDD}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\studentspecialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0DF375-2519-4D4B-9D1F-69FD27B48DDD}|LeetCode\\LeetCode.csproj|D:\\tayyab\\Practice\\LeetCode\\leetcode\\linqpractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0DF375-2519-4D4B-9D1F-69FD27B48DDD}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\linqpractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0DF375-2519-4D4B-9D1F-69FD27B48DDD}|LeetCode\\LeetCode.csproj|D:\\tayyab\\Practice\\LeetCode\\leetcode\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0DF375-2519-4D4B-9D1F-69FD27B48DDD}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0DF375-2519-4D4B-9D1F-69FD27B48DDD}|LeetCode\\LeetCode.csproj|D:\\tayyab\\Practice\\LeetCode\\leetcode\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0DF375-2519-4D4B-9D1F-69FD27B48DDD}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyHashMap.cs",
+              "DocumentMoniker": "D:\\tayyab\\Practice\\LeetCode\\LeetCode\\MyHashMap.cs",
+              "RelativeDocumentMoniker": "LeetCode\\MyHashMap.cs",
+              "ToolTip": "D:\\tayyab\\Practice\\LeetCode\\LeetCode\\MyHashMap.cs",
+              "RelativeToolTip": "LeetCode\\MyHashMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T07:22:40.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeetCode.cs",
+              "DocumentMoniker": "D:\\tayyab\\Practice\\LeetCode\\LeetCode\\LeetCode.cs",
+              "RelativeDocumentMoniker": "LeetCode\\LeetCode.cs",
+              "ToolTip": "D:\\tayyab\\Practice\\LeetCode\\LeetCode\\LeetCode.cs",
+              "RelativeToolTip": "LeetCode\\LeetCode.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:56:23.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\tayyab\\Practice\\LeetCode\\LeetCode\\Student.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Student.cs",
+              "ToolTip": "D:\\tayyab\\Practice\\LeetCode\\LeetCode\\Student.cs",
+              "RelativeToolTip": "LeetCode\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:13:30.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentSpecialty.cs",
+              "DocumentMoniker": "D:\\tayyab\\Practice\\LeetCode\\LeetCode\\StudentSpecialty.cs",
+              "RelativeDocumentMoniker": "LeetCode\\StudentSpecialty.cs",
+              "ToolTip": "D:\\tayyab\\Practice\\LeetCode\\LeetCode\\StudentSpecialty.cs",
+              "RelativeToolTip": "LeetCode\\StudentSpecialty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:11:55.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\tayyab\\Practice\\LeetCode\\LeetCode\\Person.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Person.cs",
+              "ToolTip": "D:\\tayyab\\Practice\\LeetCode\\LeetCode\\Person.cs",
+              "RelativeToolTip": "LeetCode\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:52:11.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LinqPractice.cs",
+              "DocumentMoniker": "D:\\tayyab\\Practice\\LeetCode\\LeetCode\\LinqPractice.cs",
+              "RelativeDocumentMoniker": "LeetCode\\LinqPractice.cs",
+              "ToolTip": "D:\\tayyab\\Practice\\LeetCode\\LeetCode\\LinqPractice.cs",
+              "RelativeToolTip": "LeetCode\\LinqPractice.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAAMkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:27:09.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomStack.cs",
+              "DocumentMoniker": "D:\\tayyab\\Practice\\LeetCode\\LeetCode\\CustomStack.cs",
+              "RelativeDocumentMoniker": "LeetCode\\CustomStack.cs",
+              "ToolTip": "D:\\tayyab\\Practice\\LeetCode\\LeetCode\\CustomStack.cs",
+              "RelativeToolTip": "LeetCode\\CustomStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:00:24.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tayyab\\Practice\\LeetCode\\LeetCode\\Program.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Program.cs",
+              "ToolTip": "D:\\tayyab\\Practice\\LeetCode\\LeetCode\\Program.cs",
+              "RelativeToolTip": "LeetCode\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:59:31.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
